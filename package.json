@@ -23,7 +23,7 @@
     "index.js",
     "lib/"
   ],
-  "main": "index.js",
+  "main": "browser.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/crypto-browserify/pbkdf2.git"
